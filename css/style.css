@@ -5,6 +5,7 @@
 	box-sizing: border-box;
 }
 .center-content{
+    padding:200px 480px;
     display: flex;
     align-items: center;
     justify-content: center;
