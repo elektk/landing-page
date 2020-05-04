@@ -34,7 +34,7 @@ img.tk{
 	position: relative;
 	font-size: 20px;
 	font-family: 'Playfair Display', serif;
-	color: #000;
+	color: white;
 }
 .about{
 	width: 100%;
@@ -42,9 +42,11 @@ img.tk{
 	position: relative;
 	overflow: hidden;
 	display: flex;
-	background-color: #fab96e;
+	background: url('../images/fon2.jpg') center no-repeat;
+	background-size: cover;
 }
 h2{
+	color: white;
 	margin: 80px 0px 0px 70px;
 }
 #coll{
