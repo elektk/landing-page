@@ -8,6 +8,7 @@
 	padding:200px 480px;
 }
 .contact{
+	justify-content: flex-end;
 	margin-left: 1000px;
 	text-align: right;
 	z-index: 1;
